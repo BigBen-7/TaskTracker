@@ -19,13 +19,6 @@ Then scan the QR code with the **Expo Go** app (iOS or Android), or press `a` fo
 
 ---
 
-## Features
-
-- **Add tasks** — with empty input validation (shake animation on empty submit)
-- **Toggle complete/incomplete** — tap the checkbox or task title
-- **Delete tasks** — tap the ✕ on any task
-- **Filter** — switch between All / Active / Done with live counts
-- **Persistent storage** — tasks survive app restarts via AsyncStorage
 
 ---
 
